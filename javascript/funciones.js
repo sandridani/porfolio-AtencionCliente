@@ -1,15 +1,15 @@
 function redireccionCV(){
-    window.open("https://drive.google.com/file/d/1oLpolP-zxI3V0EHver7jwyKMVZkJKohc/view?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1QD59cDIODpMAt5RezThmo_uiHcSlg2Gn/view?usp=sharing", "_blank");
 }
 
 
 
 const redireccionSoft = () =>{
-    window.open("https://drive.google.com/drive/folders/1Q2H9inVdMcGNiXldrlYFm_gz6UoN5mRo?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/1XBl4LROsInbitEdu7lRdqMwuW1zqM9KK/view?usp=sharing", "_blank");
 }
 
 
 
 const redireccionProg = ()=>{
-    window.open("https://drive.google.com/drive/folders/1n3g8KomC2iub_kvN07B3Wz3yGBQH-Aiw?usp=sharing", "_blank");
+    window.open("https://drive.google.com/file/d/18beRVVjMdADLXhAlSKZ6XrMGdL1j_cST/view?usp=sharing", "_blank");
 }

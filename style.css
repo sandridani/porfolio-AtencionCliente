@@ -98,3 +98,8 @@ p {
     text-align: center;
     clear: both;
 }
+
+.firma {
+    display: flex;
+    justify-content: flex-end;
+}
